@@ -1,0 +1,58 @@
+[0,
+ 'Niñ@ (Nombre)',
+ 'sexo',
+ 'Hogar',
+ 'Foto',
+ 'EDAD',
+ 'Fecha de nacimiento',
+ 'FAMILIA (S/N)',
+ 'Antecedentes Personales',# medicos 
+ 'Antecedentes Familiares',
+ 'Medicación',
+ 'Alergias',
+ 'Apetito', # fuera
+ 'Control de esfinter',#fuera
+ 'Insomnio', #fuera
+ 'Autoestima/autoimagen',
+ 'Relacional',
+ 'Menarquia',
+ 'FUR', #fuera
+ 'Relaciones sexuales',
+ 'Protección?', #fuera
+ 'Genitales ',
+ 'COMENTARIOS PSICOLOGÍA',
+ 'Peso (Kg)',
+ 'Perímetro branquial',
+ 'TALLA (Cm)',
+ 'Talla Percentil', #fuera
+ 'IMC',
+ 'IMC.1 (Percentil)', #fuera
+
+ ##grupo -- Oftalmologia 
+ 'OJOS (Gafas)', # - si no, comentadas - , si fecha de adquisicion 
+ 'Agudeza visual', 
+ 'Oculomotores',
+
+
+ ##Otorrino
+ 'OÍDO (Pendientes y perforaciones)',
+ 'Otoscopia',
+ 'Audición',
+
+  ## bucal
+ 'DIENTES (Caries)',
+ 'DIENTES.1 (Otros)',
+
+
+  ## auscultacion
+ 'CARDIOPULMONAR (Corazón)',
+ 'CARDIOPULMONAR.1 (Pulmón)',
+ 'CARDIOPULMONAR.2 (Adams)',
+
+ ## dermatologia
+ 'ABDOMEN (Exploración)',
+ 'PIEL (Piojos)',
+ 'Tatuajes',
+ 'PIEL.1 (Lesiones)', 
+ 'OBSERVACIONES',
+ 'Comparacion percentiles'] #fuera

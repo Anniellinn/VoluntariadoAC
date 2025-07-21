@@ -1,0 +1,7 @@
+streamlit
+pandas
+plotly
+Pillow
+streamlit-star-rating
+openpyxl
+st_star_rating
